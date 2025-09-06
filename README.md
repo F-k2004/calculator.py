@@ -1,4 +1,4 @@
-# calculator.py
+# calculator.p
 
 def calculator():
     print("🧮 ماشین حساب ساده")
